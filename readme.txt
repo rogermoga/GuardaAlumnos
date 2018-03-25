@@ -1,0 +1,1 @@
+Lee entradas de teclado y las guarda en ficheros txt, xml o json

@@ -1,0 +1,7 @@
+C:\Users\Roger Moga\source\repos\GuardarAlumnos\GuardarAlumnos\bin\Debug\GuardarAlumnos.exe.config
+C:\Users\Roger Moga\source\repos\GuardarAlumnos\GuardarAlumnos\bin\Debug\GuardarAlumnos.exe
+C:\Users\Roger Moga\source\repos\GuardarAlumnos\GuardarAlumnos\bin\Debug\GuardarAlumnos.pdb
+C:\Users\Roger Moga\source\repos\GuardarAlumnos\GuardarAlumnos\obj\Debug\GuardarAlumnos.csprojResolveAssemblyReference.cache
+C:\Users\Roger Moga\source\repos\GuardarAlumnos\GuardarAlumnos\obj\Debug\GuardarAlumnos.csproj.CoreCompileInputs.cache
+C:\Users\Roger Moga\source\repos\GuardarAlumnos\GuardarAlumnos\obj\Debug\GuardarAlumnos.exe
+C:\Users\Roger Moga\source\repos\GuardarAlumnos\GuardarAlumnos\obj\Debug\GuardarAlumnos.pdb
