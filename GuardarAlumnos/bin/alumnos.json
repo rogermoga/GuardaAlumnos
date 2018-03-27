@@ -1,0 +1,32 @@
+[
+  {
+    "identificador": 66,
+    "nombre": "adas",
+    "apellido": "dasd",
+    "dni": "ad"
+  },
+  {
+    "identificador": 1,
+    "nombre": "Roger",
+    "apellido": "Moga",
+    "dni": "47729291j"
+  },
+  {
+    "identificador": 2,
+    "nombre": "Pau",
+    "apellido": "Prat",
+    "dni": "488958567y"
+  },
+  {
+    "identificador": 3,
+    "nombre": "Pere",
+    "apellido": "Riba",
+    "dni": "488552145h"
+  },
+  {
+    "identificador": 2,
+    "nombre": "pepe",
+    "apellido": "pepe",
+    "dni": "2222222"
+  }
+]

@@ -5,3 +5,6 @@ C:\Users\Roger Moga\source\repos\GuardarAlumnos\GuardarAlumnos\obj\Debug\Guardar
 C:\Users\Roger Moga\source\repos\GuardarAlumnos\GuardarAlumnos\obj\Debug\GuardarAlumnos.csproj.CoreCompileInputs.cache
 C:\Users\Roger Moga\source\repos\GuardarAlumnos\GuardarAlumnos\obj\Debug\GuardarAlumnos.exe
 C:\Users\Roger Moga\source\repos\GuardarAlumnos\GuardarAlumnos\obj\Debug\GuardarAlumnos.pdb
+C:\Users\Roger Moga\source\repos\GuardarAlumnos\GuardarAlumnos\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Roger Moga\source\repos\GuardarAlumnos\GuardarAlumnos\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Roger Moga\source\repos\GuardarAlumnos\GuardarAlumnos\obj\Debug\GuardarAlumnos.csproj.CopyComplete
