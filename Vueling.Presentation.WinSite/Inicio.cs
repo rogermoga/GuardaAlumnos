@@ -6,7 +6,7 @@ using System.Windows.Forms;
 
 namespace Vueling.Presentation.WinSite
 {
-    static class menu
+    static class Inicio
     {
         /// <summary>
         /// Punto de entrada principal para la aplicación.
